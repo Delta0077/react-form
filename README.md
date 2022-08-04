@@ -1,2 +1,4 @@
-run npm install
-run npm run dev
+# Installation Guide
+
+run `npm install` </br>
+run `npm run dev`
