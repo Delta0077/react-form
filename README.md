@@ -1,4 +1,9 @@
 # Installation Guide
 
-run `npm install` </br>
+### Install node-modules:
+
+run `npm install` </br></br>
+
+### Run development server:
+
 run `npm run dev`
