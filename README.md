@@ -1,8 +1,6 @@
 <head>
  <style> 
-#install--command {
-  
-  }
+  h3 {color: blue;}
 
 </style> 
  </head>
